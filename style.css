@@ -7,3 +7,13 @@ p {
 h2 {
   color: gray;
 }
+
+img {
+  text-align: center;
+}
+
+div.bloque1 {
+  width: 70%;
+  margin: 0 auto;
+  border: 3px solid;
+}
